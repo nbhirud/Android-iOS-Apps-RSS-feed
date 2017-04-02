@@ -1,4 +1,4 @@
-package com.nbhirud.group14_hw03;
+package com.nbhirud.iTunesTopGrossingApps;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;

@@ -1,4 +1,4 @@
-package com.nbhirud.group14_hw03;
+package com.nbhirud.iTunesTopGrossingApps;
 
 import org.xml.sax.helpers.DefaultHandler;
 import org.xmlpull.v1.XmlPullParser;

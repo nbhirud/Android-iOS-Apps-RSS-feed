@@ -1,4 +1,4 @@
-package com.nbhirud.group14_hw03;
+package com.nbhirud.iTunesTopGrossingApps;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
